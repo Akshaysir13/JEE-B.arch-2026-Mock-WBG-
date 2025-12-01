@@ -4341,7 +4341,7 @@ const initialTests: Test[] = [
 //{ id: 'JEE B.Arch PYQ 2024 January Attempt', name: 'JEE B.Arch PYQ 2024 January Attempt', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4000, 4050) },
 //{ id: 'JEE B.Arch PYQ 2024 April Attempt', name: 'JEE B.Arch PYQ 2024 April Attempt', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4050, 4100) },
 //{ id: 'JEE B.Arch PYQ 2025 January Attempt', name: 'JEE B.Arch PYQ 2025 January Attempt', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4100, 4150) },
-{ id: 'JEE B.Arch PYQ 2025 April Attempt', name: 'JEE B.Arch PYQ 2025 April Attempt', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4150, 4200) }
+//{ id: 'JEE B.Arch PYQ 2025 April Attempt', name: 'JEE B.Arch PYQ 2025 April Attempt', description: 'Solve Actual PYQ from that Year', duration: DEFAULT_TEST_DURATION, questions: sampleQuestions.slice(4150, 4200) }
 
   // Add more initial tests as needed, manually defining the slice for each
 ];
